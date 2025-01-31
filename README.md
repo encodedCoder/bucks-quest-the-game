@@ -62,4 +62,10 @@ The project is organized as follows:
 └── README.md
 ```
 
+### Unity Version
+
+```Unity version
+    Unity Version: 6000.0.36f1
+```
+
 This structure helps in organizing the project files and assets efficiently.

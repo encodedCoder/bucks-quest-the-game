@@ -1,0 +1,669 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.36f1 (9fe3b5f71dbb) revision 10478517'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 16105 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.36f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/theCode/OneDrive/Desktop/ecs/Unity Games/02. Buck's Quest/bucks-quest-unity-project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+12237
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/theCode/OneDrive/Desktop/ecs/Unity Games/02. Buck's Quest/bucks-quest-unity-project
+C:/Users/theCode/OneDrive/Desktop/ecs/Unity Games/02. Buck's Quest/bucks-quest-unity-project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [24916]  Target information:
+
+Player connection [24916]  * "[IP] 172.16.0.2 [Port] 0 [Flags] 2 [Guid] 3394408009 [EditorId] 3394408009 [Version] 1048832 [Id] WindowsEditor(7,theCode) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [24916]  * "[IP] 172.21.7.118 [Port] 0 [Flags] 2 [Guid] 3394408009 [EditorId] 3394408009 [Version] 1048832 [Id] WindowsEditor(7,theCode) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [24916] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [24916] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.36f1 (9fe3b5f71dbb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/theCode/OneDrive/Desktop/ecs/Unity Games/02. Buck's Quest/bucks-quest-unity-project/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   32.0.15.6607
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56924
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005373 seconds.
+- Loaded All Assemblies, in  0.516 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.431 seconds
+Domain Reload Profiling: 942ms
+	BeginReloadAssembly (173ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (69ms)
+	LoadAllAssembliesAndSetupDomain (211ms)
+		LoadAssemblies (168ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (207ms)
+			TypeCache.Refresh (205ms)
+				TypeCache.ScanAssembly (187ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (431ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (385ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (34ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (67ms)
+			ProcessInitializeOnLoadAttributes (199ms)
+			ProcessInitializeOnLoadMethodAttributes (80ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.376 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.444 seconds
+Domain Reload Profiling: 816ms
+	BeginReloadAssembly (242ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (35ms)
+		LoadAssemblies (168ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (26ms)
+			TypeCache.Refresh (18ms)
+				TypeCache.ScanAssembly (8ms)
+			BuildScriptInfoCaches (3ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (445ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (303ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (81ms)
+			ProcessInitializeOnLoadAttributes (165ms)
+			ProcessInitializeOnLoadMethodAttributes (37ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 414 unused Assets / (121.3 KB). Loaded Objects now: 909.
+Memory consumption went from 56.1 MB to 56.0 MB.
+Total: 7.579200 ms (FindLiveObjects: 0.235200 ms CreateObjectMapping: 0.046200 ms MarkObjects: 7.027600 ms  DeleteObjects: 0.266700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 38105.860396 seconds.
+  path: Assets/Artwork/PlayerAnimation/idle/characterIdle0004.png
+  artifactKey: Guid(7b11d421749fba74da9c2b0689964647) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/idle/characterIdle0004.png using Guid(7b11d421749fba74da9c2b0689964647) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8130ed8e4607b18dfbd68ea04909b67c') in 0.2352512 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Prefabs/caveDoorPull2.prefab
+  artifactKey: Guid(43f0e7c09d0b94c4a8b032f1ec692a8a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prefabs/caveDoorPull2.prefab using Guid(43f0e7c09d0b94c4a8b032f1ec692a8a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cb6ed227f0a029b9fee073442cac1668') in 0.0814156 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Music/Angel Chorus 03.ogg
+  artifactKey: Guid(c51c42120d01bcf4eb158fffb1d45c5a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Music/Angel Chorus 03.ogg using Guid(c51c42120d01bcf4eb158fffb1d45c5a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fec5e214aa6f6924cd7b91d653915887') in 0.1831279 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Scenes/LevelBackButton.prefab
+  artifactKey: Guid(e9c1cc9fb8642ce4a925ddd6a30b801d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/LevelBackButton.prefab using Guid(e9c1cc9fb8642ce4a925ddd6a30b801d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4931860073a12d9f0f6041c7a70191b1') in 0.054497 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Artwork/PlayerAnimation/jump/characterJump0002.png
+  artifactKey: Guid(72c853857fdd9c34487213cdd73f5d90) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/jump/characterJump0002.png using Guid(72c853857fdd9c34487213cdd73f5d90) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e273de77c838474fc33f6a2e692cb2dc') in 0.0373351 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Prefabs/caveDoorPull.prefab
+  artifactKey: Guid(e723d1df0c6302646ae7a7d4a49417d1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prefabs/caveDoorPull.prefab using Guid(e723d1df0c6302646ae7a7d4a49417d1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '795c528c2c04901660bc780c5f395639') in 0.0416511 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Prefabs/caveDoorLevel2.prefab
+  artifactKey: Guid(e6649950accf1754bbf9b757f2a5bee1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prefabs/caveDoorLevel2.prefab using Guid(e6649950accf1754bbf9b757f2a5bee1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ab3911e7031e0f37850e9e7406d13499') in 0.0317523 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Scenes/06_level05.unity
+  artifactKey: Guid(afa48a9166e518f4aaf4f2f6b3bea218) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/06_level05.unity using Guid(afa48a9166e518f4aaf4f2f6b3bea218) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '671e0e1350decd5a7cfd908e934d8dab') in 0.0211624 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Artwork/PlayerAnimation/jump/characterJump0004.png
+  artifactKey: Guid(aabd41e8eca9f2242ba4436c5c23e90c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/jump/characterJump0004.png using Guid(aabd41e8eca9f2242ba4436c5c23e90c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dbfe16a5202d16cf4084a253b83dba77') in 0.0312248 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Scripts/LoadNextLevel.cs
+  artifactKey: Guid(f7e0d1b0cb29c3e4dbb7071b93d44c90) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/LoadNextLevel.cs using Guid(f7e0d1b0cb29c3e4dbb7071b93d44c90) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4b6a6c6c4d654fdb9373ec6e35845211') in 0.0147422 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Artwork/PlayerAnimation/pull/characterPull0014.png
+  artifactKey: Guid(f892392243dc78546a752e53cf603f3d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/pull/characterPull0014.png using Guid(f892392243dc78546a752e53cf603f3d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7f778897af04e5dc8f9fec96b596a347') in 0.0311608 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Artwork/PlayerAnimation/pull/characterPull0013.png
+  artifactKey: Guid(16b38407cc8bba04ca17fa7bbadbe74a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/pull/characterPull0013.png using Guid(16b38407cc8bba04ca17fa7bbadbe74a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '51936139758f9c6a9a921198d19fad3f') in 0.0314259 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Artwork/PlayerAnimation/pull/characterPull0016.png
+  artifactKey: Guid(2f5f2811a03c97f409e27959da9da7ed) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/pull/characterPull0016.png using Guid(2f5f2811a03c97f409e27959da9da7ed) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0b8c4fde129345c3a26ee9c196df786e') in 0.0316035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Artwork/PlayerAnimation/jump/characterJump0025.png
+  artifactKey: Guid(cb0e57ba56c6aca4998229ed2775286c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/jump/characterJump0025.png using Guid(cb0e57ba56c6aca4998229ed2775286c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5f6c034d13adad32d56a1a71ce2d7bda') in 0.0310664 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Artwork/PlayerAnimation/jump/characterJump0024.png
+  artifactKey: Guid(3cca337df0d215743b989098bf583442) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/jump/characterJump0024.png using Guid(3cca337df0d215743b989098bf583442) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2bd96a577b08bffdad0d4fb93931e1ec') in 0.0299222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Artwork/PlayerAnimation/pull/characterPull0024.png
+  artifactKey: Guid(8f07df54c0ce3f944b1ecdf72f38b9a2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/pull/characterPull0024.png using Guid(8f07df54c0ce3f944b1ecdf72f38b9a2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '368f4f654e6622830aa238287df1ab9a') in 0.0307215 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Music/Whoosh By 04.ogg
+  artifactKey: Guid(8a87e43ac1cc59a448fdb0ebd150ce62) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Music/Whoosh By 04.ogg using Guid(8a87e43ac1cc59a448fdb0ebd150ce62) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0c771f00601c23fba62cc820cbffe411') in 0.0422563 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Scripts/BackButtonScript.cs
+  artifactKey: Guid(03cbc6defaab8684382f024c6c2d630e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/BackButtonScript.cs using Guid(03cbc6defaab8684382f024c6c2d630e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bd60cab8fa46611f412de9bae85e777f') in 0.0120472 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Artwork/PlayerAnimation/idle/characterIdle0001.png
+  artifactKey: Guid(151dddb04a5c8fc4f914b51d7137488a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/idle/characterIdle0001.png using Guid(151dddb04a5c8fc4f914b51d7137488a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '37f5bf31343ea74cbd0e9ddc267304ec') in 0.0339231 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Artwork/PlayerAnimation/jump/characterJump0019.png
+  artifactKey: Guid(87c091560731bea409d98b12813d8c8b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/jump/characterJump0019.png using Guid(87c091560731bea409d98b12813d8c8b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cf5568187b241dbbc67b5c8df1353c50') in 0.0325784 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Scenes/00_sureshGames.unity
+  artifactKey: Guid(591a3423d6e809c488bdbd85b3f88a6a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/00_sureshGames.unity using Guid(591a3423d6e809c488bdbd85b3f88a6a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5a24cafa45de6624809871dd6a18bc09') in 0.0200944 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Prefabs/caveDoor.prefab
+  artifactKey: Guid(a19c35cb53749454ebd6585eb3162027) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prefabs/caveDoor.prefab using Guid(a19c35cb53749454ebd6585eb3162027) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9420e0958cc0923864731a0e3e07f1fe') in 0.0300881 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Artwork/PlayerAnimation/idle/characterIdle0011.png
+  artifactKey: Guid(0cbee75b2a0717e45875359b8245572f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/idle/characterIdle0011.png using Guid(0cbee75b2a0717e45875359b8245572f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0dad1643ea2286bed0ec983875702b19') in 0.03154 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Scripts/theEndLevel.cs
+  artifactKey: Guid(86067e1217e07424c928ac54602c607f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/theEndLevel.cs using Guid(86067e1217e07424c928ac54602c607f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c4314b9d1e8c962984151d221a4fe6cc') in 0.0143105 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Animations/pressSpaceContinueText.anim
+  artifactKey: Guid(83d5324436fbfce45a49713dc0e0e70a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/pressSpaceContinueText.anim using Guid(83d5324436fbfce45a49713dc0e0e70a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '14b068bc01dd8751ee81c07fd99ff0d6') in 0.022364 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Prefabs/ExitButtonCanvas.prefab
+  artifactKey: Guid(5fd2fc6d1fdbb3348a459c5202bcc463) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prefabs/ExitButtonCanvas.prefab using Guid(5fd2fc6d1fdbb3348a459c5202bcc463) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b81060e21d79f48a417af65385df8355') in 0.0372074 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Artwork/PlayerAnimation/idle/characterIdle0009.png
+  artifactKey: Guid(cea21ec400d470b4d9d7ebdff2364688) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/idle/characterIdle0009.png using Guid(cea21ec400d470b4d9d7ebdff2364688) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'edf2a7a94e0daeaa41efd8c0fab1076d') in 0.0329526 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Artwork/PlayerAnimation/push/characterPush0023.png
+  artifactKey: Guid(0537986ec024680428ea1848b9046dbd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/push/characterPush0023.png using Guid(0537986ec024680428ea1848b9046dbd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c5cf1e80550526f2e196760909e6a95a') in 0.035603 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Artwork/PlayerAnimation/push/characterPush0013.png
+  artifactKey: Guid(d1244296e5bef5642a583ddde7ee2a94) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/push/characterPush0013.png using Guid(d1244296e5bef5642a583ddde7ee2a94) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2e60d658ebed81f5a0b2e28bca475e77') in 0.0374158 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Artwork/PlayerAnimation/push/characterPush0021.png
+  artifactKey: Guid(c032ae2015707784d8d12b6827dc45c6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/push/characterPush0021.png using Guid(c032ae2015707784d8d12b6827dc45c6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7564f0a6eec8f19186f75b01d4d49f63') in 0.0317732 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Artwork/PlayerAnimation/push/characterPush0009.png
+  artifactKey: Guid(578288ca7c6b41e40a735a689cffc735) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/push/characterPush0009.png using Guid(578288ca7c6b41e40a735a689cffc735) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd5561104433561fc5d39858392297177') in 0.0326965 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Artwork/PlayerAnimation/run/characterRun0012.png
+  artifactKey: Guid(4028994ac102b9746a32b4325704f043) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/run/characterRun0012.png using Guid(4028994ac102b9746a32b4325704f043) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ec0c1c6a0d513b669df20d6969d7353e') in 0.0328087 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Artwork/PlayerAnimation/push/characterPush0020.png
+  artifactKey: Guid(54f2c1d60120b8244a1b49ffadbf7086) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/push/characterPush0020.png using Guid(54f2c1d60120b8244a1b49ffadbf7086) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f0907c7a4f85dc8c788f4c0d5b737630') in 0.032563 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Artwork/PlayerAnimation/pull/characterPull0020.png
+  artifactKey: Guid(0081988441024fa46bdee77ba49cd54c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/pull/characterPull0020.png using Guid(0081988441024fa46bdee77ba49cd54c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1fd83ae59abaafa19a949a07e3eefcdb') in 0.0307732 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Animations/PressSpaceReplay.controller
+  artifactKey: Guid(8656c617012633d4d99f52f8e1dfc27a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PressSpaceReplay.controller using Guid(8656c617012633d4d99f52f8e1dfc27a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e461fb8beff76b2a0f19bbaab9d95809') in 0.0328429 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Animations/Buck's Quest.controller
+  artifactKey: Guid(80f7574470cf5624f92fcaae0a084cd2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Buck's Quest.controller using Guid(80f7574470cf5624f92fcaae0a084cd2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '026f7ba0096502ad0f65b449b9eeff01') in 0.0314322 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Artwork/PlayerAnimation/idle/characterIdle0008.png
+  artifactKey: Guid(8431db35c2d92b34c9e09fbda88de438) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/idle/characterIdle0008.png using Guid(8431db35c2d92b34c9e09fbda88de438) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3d3c26524e304c32f86823fe193c2646') in 0.0338842 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Animations/SureshPresents.anim
+  artifactKey: Guid(4d3d4e448832e834c882327257aceaf7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/SureshPresents.anim using Guid(4d3d4e448832e834c882327257aceaf7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c242885c46460036c2eabf46fd2c643b') in 0.0280424 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Scenes/01_startScreen.unity
+  artifactKey: Guid(f1ae7feb2a4f09e468195683ac59a2d6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/01_startScreen.unity using Guid(f1ae7feb2a4f09e468195683ac59a2d6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e29ae83a6d6871ebac4e3322a4b29b3d') in 0.0222773 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Artwork/PlayerAnimation/push/characterPush0008.png
+  artifactKey: Guid(64c5e9dfb6acfb547a0e327fea326d45) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/push/characterPush0008.png using Guid(64c5e9dfb6acfb547a0e327fea326d45) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'abee10756e0ab27081bc81517d0ad401') in 0.0314707 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Fonts/DEAD.TTF
+  artifactKey: Guid(423f4c4ef590ee446b0c09532b2a7cfe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Fonts/DEAD.TTF using Guid(423f4c4ef590ee446b0c09532b2a7cfe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '73b88ac1954dc30a0f359265d03a20ed') in 0.0224002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Artwork/PlayerAnimation/idle/characterIdle0002.png
+  artifactKey: Guid(dafcfb86563150848b003efa66943ba1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/idle/characterIdle0002.png using Guid(dafcfb86563150848b003efa66943ba1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cc5820eeb1f359ba5bc4b6c395e9989c') in 0.0317842 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Artwork/PlayerAnimation/run/characterRun0006.png
+  artifactKey: Guid(a624fd7a373d306479d09cb2c722b6d2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/run/characterRun0006.png using Guid(a624fd7a373d306479d09cb2c722b6d2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a6801cd3ae52600e7cc8ff4bdb242499') in 0.0350565 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Artwork/PlayerAnimation/pull/characterPull0025.png
+  artifactKey: Guid(44de9bc70423650409aadb71ee8fcc2f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/pull/characterPull0025.png using Guid(44de9bc70423650409aadb71ee8fcc2f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8dca789aa5a7eb6271d2e4275ab305db') in 0.0311913 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Artwork/PlayerAnimation/walk/characterWalk0003.png
+  artifactKey: Guid(e31a17ae038a254499a7d2253e8ed851) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/walk/characterWalk0003.png using Guid(e31a17ae038a254499a7d2253e8ed851) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ab172ee76d49c505306a2e1c3c33bc71') in 0.0361683 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Artwork/PlayerAnimation/walk/characterWalk0021.png
+  artifactKey: Guid(b0ea308ffd47f4d458b8ec6468b9ebfb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/walk/characterWalk0021.png using Guid(b0ea308ffd47f4d458b8ec6468b9ebfb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b45e877bc5b8a712567269ac90a4fc75') in 0.0353892 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Artwork/PlayerAnimation/walk/characterWalk0010.png
+  artifactKey: Guid(a8b6c4d5e2f46e04883363731c4c983d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/walk/characterWalk0010.png using Guid(a8b6c4d5e2f46e04883363731c4c983d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ef14da36567627affff906295dfa6384') in 0.0325416 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Artwork/PlayerAnimation/walk/characterWalk0019.png
+  artifactKey: Guid(0a02a3e4c893ab441b8c73bc60858653) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/walk/characterWalk0019.png using Guid(0a02a3e4c893ab441b8c73bc60858653) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0f602252bd57647c90f6aa6a3b21f868') in 0.0356667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Artwork/PlayerAnimation/walk/characterWalk0005.png
+  artifactKey: Guid(f3a4d39a60886ec47b36e82ccc79fdb6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/walk/characterWalk0005.png using Guid(f3a4d39a60886ec47b36e82ccc79fdb6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dc2757b6bd1abceeb4e69239cafa2b01') in 0.0357976 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Artwork/PlayerAnimation/walk/characterWalk0017.png
+  artifactKey: Guid(c902a16612c5dbd40b439884cb412639) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/walk/characterWalk0017.png using Guid(c902a16612c5dbd40b439884cb412639) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3574816b4bfbc01ea44ffd9d1c1f1b41') in 0.0490363 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Music/Low Wind & Tone Atmosphere.ogg
+  artifactKey: Guid(b7fbc44895e62cc458cbeee08709b891) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Music/Low Wind & Tone Atmosphere.ogg using Guid(b7fbc44895e62cc458cbeee08709b891) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f198f3043e947a5399fd1e2f2b00b109') in 0.3168638 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Artwork/PlayerAnimation/push/characterPush0001.png
+  artifactKey: Guid(013053b3c223181469d82aeb71a6d873) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/push/characterPush0001.png using Guid(013053b3c223181469d82aeb71a6d873) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd3fe03fb89062e562ed80b3a381ebb7b') in 0.0377491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Prefabs/caveDoorPull3.prefab
+  artifactKey: Guid(37bbfb70a08e9b34aa6886bf74ccf473) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prefabs/caveDoorPull3.prefab using Guid(37bbfb70a08e9b34aa6886bf74ccf473) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5cedea62d5a1e19d27a142e60fd0b9e6') in 0.0416325 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Animations/theEndTextAnimation.anim
+  artifactKey: Guid(4f12553e73c994742ad254b00aa899f0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/theEndTextAnimation.anim using Guid(4f12553e73c994742ad254b00aa899f0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ff23c278479a7e8c10ee1907cf70bb12') in 0.0171678 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Artwork/PlayerAnimation/pull/characterPull0023.png
+  artifactKey: Guid(f4922a92171648547988698bf53ac702) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/pull/characterPull0023.png using Guid(f4922a92171648547988698bf53ac702) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '98194bfa29afcaf8641da8810e47cc3e') in 0.0385437 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Artwork/PlayerAnimation/walk/characterWalk0016.png
+  artifactKey: Guid(403d7f84f22c68346ad24b7da92150c0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/walk/characterWalk0016.png using Guid(403d7f84f22c68346ad24b7da92150c0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'aa342866aba7bd04499e1bb90214d6ee') in 0.0328535 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Artwork/PlayerAnimation/run/characterRun0008.png
+  artifactKey: Guid(8ccb1e19c0243de45bddf6a4c2906e32) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/run/characterRun0008.png using Guid(8ccb1e19c0243de45bddf6a4c2906e32) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '492e8886728da7488db28e888cbb57e6') in 0.0324259 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Prefabs/caveDoorLevel1.prefab
+  artifactKey: Guid(3548f173028a44f4d8ee1c6ad91882d2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Prefabs/caveDoorLevel1.prefab using Guid(3548f173028a44f4d8ee1c6ad91882d2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b90ef368ebfe4d7299b96d2ba26c6add') in 0.0423791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Artwork/PlayerAnimation/run/characterRun0007.png
+  artifactKey: Guid(c9253764f2060bb439b821bc79cff5ab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/run/characterRun0007.png using Guid(c9253764f2060bb439b821bc79cff5ab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5dc1da85d73cd083bf0aa94fbfd72cf4') in 0.0361914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Artwork/PlayerAnimation/pull/characterPull0018.png
+  artifactKey: Guid(96b521c304d67bd489c9cf221d896c7a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Artwork/PlayerAnimation/pull/characterPull0018.png using Guid(96b521c304d67bd489c9cf221d896c7a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '90d3ba741cb7a299eaf84960d010a9e9') in 0.0300592 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
